@@ -1,0 +1,22 @@
+{
+  "name": "moet-command-center-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "setup:appwrite": "node setup-appwrite.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "appwrite": "^16.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-appwrite": "^26.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

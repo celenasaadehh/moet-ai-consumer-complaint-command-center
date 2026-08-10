@@ -1,0 +1,142 @@
+﻿id,name,province,sector,violations,last_inspection,zone,open_complaints
+DEMO-EST-001,Demo Restaurant 001,Mount Lebanon,Restaurant,4,2026-01-05,RED,6
+DEMO-EST-002,Demo Restaurant 002,South Lebanon,Restaurant,6,2025-04-06,RED,5
+DEMO-EST-003,Demo Catering Delivery 003,Beirut,Catering & Delivery,0,2026-01-03,GREEN,1
+DEMO-EST-004,Demo Beach Resort 004,Mount Lebanon,Beach Resort,1,2025-04-21,YELLOW,2
+DEMO-EST-005,Demo Toys Children 005,South Lebanon,Toys & Children,0,2026-01-12,GREEN,0
+DEMO-EST-006,Demo Catering Delivery 006,Mount Lebanon,Catering & Delivery,4,2026-07-01,RED,6
+DEMO-EST-007,Demo Sweets Bakery 007,Beirut,Sweets & Bakery,3,2026-01-29,YELLOW,3
+DEMO-EST-008,Demo Restaurant 008,Beirut,Restaurant,5,2025-03-07,RED,1
+DEMO-EST-009,Demo Supermarket 009,Beirut,Supermarket,8,2026-01-28,RED,5
+DEMO-EST-010,Demo Sweets Bakery 010,Beirut,Sweets & Bakery,0,2025-10-20,GREEN,1
+DEMO-EST-011,Demo Pharmacy 011,North Lebanon,Pharmacy,1,2026-07-05,YELLOW,1
+DEMO-EST-012,Demo Butchery 012,Bekaa,Butchery,0,2025-04-29,GREEN,0
+DEMO-EST-013,Demo Supermarket 013,Beirut,Supermarket,9,2025-04-19,RED,1
+DEMO-EST-014,Demo Supermarket 014,Beirut,Supermarket,5,2025-08-29,RED,5
+DEMO-EST-015,Demo Hotel Resort 015,South Lebanon,Hotel & Resort,8,2025-07-12,RED,1
+DEMO-EST-016,Demo Restaurant 016,South Lebanon,Restaurant,1,2025-10-30,YELLOW,2
+DEMO-EST-017,Demo Pharmacy 017,Beirut,Pharmacy,0,2026-04-29,GREEN,0
+DEMO-EST-018,Demo Supermarket 018,Beirut,Supermarket,1,2026-05-03,YELLOW,3
+DEMO-EST-019,Demo Restaurant 019,Mount Lebanon,Restaurant,7,2026-04-16,RED,1
+DEMO-EST-020,Demo Catering Delivery 020,Bekaa,Catering & Delivery,2,2026-07-24,YELLOW,3
+DEMO-EST-021,Demo Butchery 021,Beirut,Butchery,8,2025-06-04,RED,5
+DEMO-EST-022,Demo Sweets Bakery 022,Mount Lebanon,Sweets & Bakery,1,2025-12-06,YELLOW,3
+DEMO-EST-023,Demo Butchery 023,North Lebanon,Butchery,3,2026-03-15,YELLOW,1
+DEMO-EST-024,Demo Hotel Resort 024,South Lebanon,Hotel & Resort,0,2026-01-09,GREEN,1
+DEMO-EST-025,Demo Butchery 025,Beirut,Butchery,0,2025-12-05,GREEN,0
+DEMO-EST-026,Demo Pharmacy 026,Bekaa,Pharmacy,0,2026-06-30,GREEN,0
+DEMO-EST-027,Demo Swimming Pool Water Park 027,Bekaa,Swimming Pool & Water Park,5,2025-09-16,RED,2
+DEMO-EST-028,Demo Supermarket 028,Beirut,Supermarket,1,2025-07-24,YELLOW,3
+DEMO-EST-029,Demo Street Food Vendor 029,Mount Lebanon,Street Food Vendor,0,2025-10-30,GREEN,1
+DEMO-EST-030,Demo Supermarket 030,Beirut,Supermarket,1,2025-12-27,YELLOW,0
+DEMO-EST-031,Demo Supermarket 031,Mount Lebanon,Supermarket,3,2026-02-14,YELLOW,2
+DEMO-EST-032,Demo Supermarket 032,North Lebanon,Supermarket,1,2025-06-26,YELLOW,2
+DEMO-EST-033,Demo Supermarket 033,Beirut,Supermarket,0,2026-03-11,GREEN,0
+DEMO-EST-034,Demo Beach Resort 034,Mount Lebanon,Beach Resort,3,2026-06-21,YELLOW,2
+DEMO-EST-035,Demo Clothing Fashion 035,Beirut,Clothing & Fashion,8,2025-05-14,RED,6
+DEMO-EST-036,Demo Street Food Vendor 036,South Lebanon,Street Food Vendor,1,2025-10-07,YELLOW,0
+DEMO-EST-037,Demo Supermarket 037,North Lebanon,Supermarket,0,2026-04-10,GREEN,0
+DEMO-EST-038,Demo Restaurant 038,North Lebanon,Restaurant,0,2025-02-24,GREEN,1
+DEMO-EST-039,Demo Swimming Pool Water Park 039,South Lebanon,Swimming Pool & Water Park,5,2025-04-14,RED,6
+DEMO-EST-040,Demo Pharmacy 040,Mount Lebanon,Pharmacy,2,2025-05-16,YELLOW,0
+DEMO-EST-041,Demo Street Food Vendor 041,Mount Lebanon,Street Food Vendor,0,2025-03-16,GREEN,0
+DEMO-EST-042,Demo Catering Delivery 042,South Lebanon,Catering & Delivery,0,2026-03-12,GREEN,0
+DEMO-EST-043,Demo Butchery 043,South Lebanon,Butchery,6,2026-02-15,RED,2
+DEMO-EST-044,Demo Beach Resort 044,Beirut,Beach Resort,3,2025-05-15,YELLOW,2
+DEMO-EST-045,Demo Petrol Station 045,Mount Lebanon,Petrol Station,0,2025-05-25,GREEN,0
+DEMO-EST-046,Demo Furniture Home 046,Beirut,Furniture & Home,0,2025-03-21,GREEN,1
+DEMO-EST-047,Demo Petrol Station 047,North Lebanon,Petrol Station,0,2026-05-22,GREEN,1
+DEMO-EST-048,Demo Street Food Vendor 048,South Lebanon,Street Food Vendor,0,2026-02-03,GREEN,0
+DEMO-EST-049,Demo Catering Delivery 049,North Lebanon,Catering & Delivery,8,2025-09-07,RED,1
+DEMO-EST-050,Demo Restaurant 050,Beirut,Restaurant,3,2026-07-09,YELLOW,2
+DEMO-EST-051,Demo Butchery 051,North Lebanon,Butchery,9,2026-07-15,RED,6
+DEMO-EST-052,Demo Beach Resort 052,South Lebanon,Beach Resort,3,2025-10-19,YELLOW,2
+DEMO-EST-053,Demo Hotel Resort 053,Beirut,Hotel & Resort,6,2026-03-18,RED,1
+DEMO-EST-054,Demo Supermarket 054,North Lebanon,Supermarket,0,2025-09-06,GREEN,0
+DEMO-EST-055,Demo Restaurant 055,North Lebanon,Restaurant,0,2025-10-17,GREEN,1
+DEMO-EST-056,Demo Cosmetics Beauty 056,Beirut,Cosmetics & Beauty,0,2026-07-05,GREEN,1
+DEMO-EST-057,Demo Restaurant 057,South Lebanon,Restaurant,7,2025-08-04,RED,2
+DEMO-EST-058,Demo Street Food Vendor 058,Beirut,Street Food Vendor,2,2026-07-13,YELLOW,3
+DEMO-EST-059,Demo Petrol Station 059,Beirut,Petrol Station,1,2026-06-27,YELLOW,2
+DEMO-EST-060,Demo Hotel Resort 060,North Lebanon,Hotel & Resort,3,2025-08-11,YELLOW,0
+DEMO-EST-061,Demo Beach Resort 061,Mount Lebanon,Beach Resort,3,2026-01-23,YELLOW,0
+DEMO-EST-062,Demo Supermarket 062,South Lebanon,Supermarket,0,2025-05-31,GREEN,1
+DEMO-EST-063,Demo Sweets Bakery 063,Beirut,Sweets & Bakery,2,2025-08-22,YELLOW,0
+DEMO-EST-064,Demo Butchery 064,Mount Lebanon,Butchery,3,2026-06-05,YELLOW,3
+DEMO-EST-065,Demo Hotel Resort 065,Mount Lebanon,Hotel & Resort,6,2025-09-25,RED,2
+DEMO-EST-066,Demo Pharmacy 066,Bekaa,Pharmacy,5,2025-07-23,RED,3
+DEMO-EST-067,Demo Butchery 067,Mount Lebanon,Butchery,1,2026-06-12,YELLOW,1
+DEMO-EST-068,Demo Swimming Pool Water Park 068,Mount Lebanon,Swimming Pool & Water Park,7,2026-02-21,RED,5
+DEMO-EST-069,Demo Sweets Bakery 069,Beirut,Sweets & Bakery,0,2026-07-28,GREEN,1
+DEMO-EST-070,Demo Swimming Pool Water Park 070,Beirut,Swimming Pool & Water Park,5,2025-05-03,RED,4
+DEMO-EST-071,Demo Swimming Pool Water Park 071,North Lebanon,Swimming Pool & Water Park,4,2025-02-21,RED,6
+DEMO-EST-072,Demo Restaurant 072,Beirut,Restaurant,0,2026-05-25,GREEN,1
+DEMO-EST-073,Demo Butchery 073,Beirut,Butchery,9,2026-06-12,RED,3
+DEMO-EST-074,Demo Sweets Bakery 074,South Lebanon,Sweets & Bakery,2,2026-07-11,YELLOW,3
+DEMO-EST-075,Demo Petrol Station 075,Mount Lebanon,Petrol Station,0,2025-05-23,GREEN,1
+DEMO-EST-076,Demo Supermarket 076,Mount Lebanon,Supermarket,1,2025-06-08,YELLOW,2
+DEMO-EST-077,Demo Pharmacy 077,South Lebanon,Pharmacy,5,2025-04-08,RED,4
+DEMO-EST-078,Demo Retail Services 078,Beirut,Retail & Services,3,2025-10-22,YELLOW,3
+DEMO-EST-079,Demo Restaurant 079,North Lebanon,Restaurant,0,2025-08-13,GREEN,0
+DEMO-EST-080,Demo Hotel Resort 080,Mount Lebanon,Hotel & Resort,5,2025-07-24,RED,1
+DEMO-EST-081,Demo Beach Resort 081,Mount Lebanon,Beach Resort,0,2026-02-21,GREEN,0
+DEMO-EST-082,Demo Pharmacy 082,Mount Lebanon,Pharmacy,0,2025-06-16,GREEN,1
+DEMO-EST-083,Demo Restaurant 083,Beirut,Restaurant,0,2025-11-21,GREEN,0
+DEMO-EST-084,Demo Pharmacy 084,North Lebanon,Pharmacy,2,2025-04-16,YELLOW,2
+DEMO-EST-085,Demo Pharmacy 085,Beirut,Pharmacy,2,2025-08-08,YELLOW,1
+DEMO-EST-086,Demo Restaurant 086,Beirut,Restaurant,0,2026-06-10,GREEN,0
+DEMO-EST-087,Demo Supermarket 087,Mount Lebanon,Supermarket,2,2025-06-12,YELLOW,3
+DEMO-EST-088,Demo Restaurant 088,Mount Lebanon,Restaurant,6,2025-10-19,RED,1
+DEMO-EST-089,Demo Supermarket 089,Beirut,Supermarket,1,2026-03-12,YELLOW,1
+DEMO-EST-090,Demo Supermarket 090,North Lebanon,Supermarket,4,2026-02-05,RED,3
+DEMO-EST-091,Demo Pharmacy 091,Beirut,Pharmacy,6,2026-06-05,RED,5
+DEMO-EST-092,Demo Swimming Pool Water Park 092,South Lebanon,Swimming Pool & Water Park,1,2025-04-09,YELLOW,3
+DEMO-EST-093,Demo Petrol Station 093,North Lebanon,Petrol Station,6,2025-05-30,RED,2
+DEMO-EST-094,Demo Sweets Bakery 094,Beirut,Sweets & Bakery,3,2025-03-22,YELLOW,0
+DEMO-EST-095,Demo Catering Delivery 095,North Lebanon,Catering & Delivery,0,2025-05-03,GREEN,0
+DEMO-EST-096,Demo Restaurant 096,Mount Lebanon,Restaurant,9,2025-11-17,RED,4
+DEMO-EST-097,Demo Catering Delivery 097,Beirut,Catering & Delivery,0,2026-02-11,GREEN,0
+DEMO-EST-098,Demo Restaurant 098,South Lebanon,Restaurant,0,2025-11-10,GREEN,1
+DEMO-EST-099,Demo Supermarket 099,Beirut,Supermarket,1,2026-07-20,YELLOW,2
+DEMO-EST-100,Demo Restaurant 100,Beirut,Restaurant,7,2025-03-19,RED,3
+DEMO-EST-101,Demo Petrol Station 101,Mount Lebanon,Petrol Station,0,2026-07-13,GREEN,1
+DEMO-EST-102,Demo Cosmetics Beauty 102,Mount Lebanon,Cosmetics & Beauty,3,2026-06-02,YELLOW,1
+DEMO-EST-103,Demo Petrol Station 103,South Lebanon,Petrol Station,0,2025-11-27,GREEN,0
+DEMO-EST-104,Demo Electronics 104,Beirut,Electronics,1,2026-02-10,YELLOW,3
+DEMO-EST-105,Demo Restaurant 105,Beirut,Restaurant,0,2026-06-07,GREEN,1
+DEMO-EST-106,Demo Supermarket 106,Beirut,Supermarket,1,2026-04-11,YELLOW,3
+DEMO-EST-107,Demo Beach Resort 107,South Lebanon,Beach Resort,5,2026-05-18,RED,3
+DEMO-EST-108,Demo Petrol Station 108,South Lebanon,Petrol Station,3,2025-01-25,YELLOW,0
+DEMO-EST-109,Demo Beach Resort 109,South Lebanon,Beach Resort,5,2026-07-20,RED,3
+DEMO-EST-110,Demo Hotel Resort 110,Mount Lebanon,Hotel & Resort,7,2026-04-15,RED,3
+DEMO-EST-111,Demo Beach Resort 111,Mount Lebanon,Beach Resort,2,2025-01-27,YELLOW,3
+DEMO-EST-112,Demo Supermarket 112,Beirut,Supermarket,9,2025-01-26,RED,6
+DEMO-EST-113,Demo Clothing Fashion 113,Beirut,Clothing & Fashion,0,2026-02-28,GREEN,0
+DEMO-EST-114,Demo Restaurant 114,Mount Lebanon,Restaurant,0,2025-11-17,GREEN,1
+DEMO-EST-115,Demo Supermarket 115,Beirut,Supermarket,6,2026-03-08,RED,5
+DEMO-EST-116,Demo Pharmacy 116,Beirut,Pharmacy,7,2025-10-11,RED,6
+DEMO-EST-117,Demo Catering Delivery 117,Beirut,Catering & Delivery,2,2026-07-07,YELLOW,2
+DEMO-EST-118,Demo Hotel Resort 118,Mount Lebanon,Hotel & Resort,0,2025-11-11,GREEN,1
+DEMO-EST-119,Demo Street Food Vendor 119,Beirut,Street Food Vendor,1,2026-02-18,YELLOW,1
+DEMO-EST-120,Demo Sweets Bakery 120,Beirut,Sweets & Bakery,3,2025-12-01,YELLOW,0
+DEMO-EST-121,Demo Restaurant 121,Beirut,Restaurant,4,2026-01-08,RED,5
+DEMO-EST-122,Demo Restaurant 122,Beirut,Restaurant,0,2026-07-23,GREEN,0
+DEMO-EST-123,Demo Sweets Bakery 123,Mount Lebanon,Sweets & Bakery,2,2026-03-09,YELLOW,2
+DEMO-EST-124,Demo Supermarket 124,Bekaa,Supermarket,2,2025-08-24,YELLOW,0
+DEMO-EST-125,Demo Sweets Bakery 125,Beirut,Sweets & Bakery,5,2025-06-27,RED,6
+DEMO-EST-126,Demo Swimming Pool Water Park 126,South Lebanon,Swimming Pool & Water Park,0,2026-07-31,GREEN,1
+DEMO-EST-127,Demo Supermarket 127,Beirut,Supermarket,7,2026-02-02,RED,2
+DEMO-EST-128,Demo Beach Resort 128,North Lebanon,Beach Resort,3,2025-08-02,YELLOW,1
+DEMO-EST-129,Demo Petrol Station 129,Beirut,Petrol Station,5,2026-07-26,RED,4
+DEMO-EST-130,Demo Hotel Resort 130,South Lebanon,Hotel & Resort,0,2025-08-16,GREEN,0
+DEMO-EST-131,Demo Pharmacy 131,Beirut,Pharmacy,0,2026-02-10,GREEN,0
+DEMO-EST-132,Demo Hotel Resort 132,South Lebanon,Hotel & Resort,0,2025-10-13,GREEN,1
+DEMO-EST-133,Demo Swimming Pool Water Park 133,North Lebanon,Swimming Pool & Water Park,0,2026-04-02,GREEN,0
+DEMO-EST-134,Demo Sweets Bakery 134,Beirut,Sweets & Bakery,4,2025-06-25,RED,1
+DEMO-EST-135,Demo Supermarket 135,South Lebanon,Supermarket,0,2025-10-26,GREEN,1
+DEMO-EST-136,Demo Restaurant 136,North Lebanon,Restaurant,5,2026-05-27,RED,4
+DEMO-EST-137,Demo Street Food Vendor 137,Mount Lebanon,Street Food Vendor,2,2025-07-06,YELLOW,0
+DEMO-EST-138,Demo Butchery 138,North Lebanon,Butchery,0,2026-07-24,GREEN,0
+DEMO-EST-139,Demo Catering Delivery 139,South Lebanon,Catering & Delivery,0,2025-04-26,GREEN,1
+DEMO-EST-140,Demo Catering Delivery 140,North Lebanon,Catering & Delivery,0,2025-02-22,GREEN,0
+DEMO-EST-141,Demo Restaurant 141,Bekaa,Restaurant,8,2026-06-25,RED,3
